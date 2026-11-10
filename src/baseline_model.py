@@ -8,8 +8,7 @@ print("Đang đọc dữ liệu...")
 # 1. Đọc dữ liệu
 df = pd.read_csv('salinity_daily_reconstructed.csv')
 
-# 2. Lọc dữ liệu cho 1 trạm duy nhất để train (Ví dụ: Trạm "An Hiệp")
-# Lưu ý: Bạn có thể đổi tên trạm khác nếu muốn
+# 2. Lọc dữ liệu cho 1 trạm duy nhất để train (Trạm An Hiệp)
 station_name = 'An Hiệp' 
 df_station = df[df['station'] == station_name].copy()
 
