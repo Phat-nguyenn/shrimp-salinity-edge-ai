@@ -1,0 +1,35 @@
+station,river_system,lat,lon,coord_source,approximate_position,share_observed_pct
+An Hiệp,Hàm Luông,10.27444,106.29194,Commune centroid,True,78.0
+An Khánh,Cửa Đại – Tiền,10.31583,106.33056,Commune centroid,True,60.1
+An Thuận,Hàm Luông,9.976389,106.605222,Station forms (SRHMC),False,40.7
+Bình Đại,Cửa Đại – Tiền,10.197028,106.711222,Station forms (SRHMC),False,40.4
+Bến Trại,Cổ Chiên,9.880889,106.529,Station forms (SRHMC),False,40.4
+Chợ Lách,Hàm Luông,10.27916666666667,106.1247222222222,National station list,False,50.9
+Cái Muối,Cửa Đại – Tiền,10.30663,106.02084,Georeferenced forecast map,False,35.8
+Cẩm Sơn,Interior canals (Bến Tre),10.00343,106.35567,Commune centroid,True,83.7
+Giao Hòa,Cửa Đại – Tiền,10.29736,106.44057,Georeferenced forecast map,False,88.9
+Hòa Nghĩa,Hàm Luông,10.27525,106.14836,Georeferenced forecast map,False,49.5
+Hương Mỹ,Cổ Chiên,9.980556,106.388889,Station forms (SRHMC),False,42.4
+Long Hòa,Ba Lai,10.26181,106.4481,Georeferenced forecast map,False,83.2
+Lộc Thuận,Cửa Đại – Tiền,10.243056,106.6,Station forms (SRHMC),False,41.6
+Mỹ Hóa,Hàm Luông,10.218194,106.352278,Station forms (SRHMC),False,87.0
+Ngã Tư,Hậu and Vĩnh Long canals,9.96,106.087,Digitised from provincial station map,True,43.8
+Nhuận Phú Tân,Cổ Chiên,10.13399,106.23604,Georeferenced forecast map,False,82.3
+Nàng Âm,Cổ Chiên,10.08098,106.22729,Georeferenced forecast map,False,53.5
+Phú Khánh,Interior canals (Bến Tre),10.04687,106.45116,Georeferenced forecast map,False,87.7
+Phú Túc,Cửa Đại – Tiền,10.33085,106.25888,Georeferenced forecast map,False,48.8
+Quới An,Cổ Chiên,10.18676111,106.1508556,National station list,False,47.9
+Quới Sơn,Cửa Đại – Tiền,10.34334,106.3807,Georeferenced forecast map,False,83.8
+Sơn Đốc,Hàm Luông,10.054167,106.463889,Station forms (SRHMC),False,38.6
+Thanh Tân,Interior canals (Bến Tre),10.23083,106.32528,Commune centroid,True,80.5
+Trà Ôn,Hậu and Vĩnh Long canals,9.951666666666666,105.8833333333333,National station list,False,47.9
+Tân Phú,Cửa Đại – Tiền,10.30792,106.1894,Georeferenced forecast map,False,40.4
+Tân Thiềng,Cổ Chiên,10.19888,106.17132,Georeferenced forecast map,False,58.4
+Tích Thiện,Hậu and Vĩnh Long canals,9.913105556,105.9779056,National station list,False,45.9
+Vàm Cái Quao,Hàm Luông,10.10573,106.39366,Georeferenced forecast map,False,81.9
+Vàm Mơn,Hàm Luông,10.2513,106.2272,Georeferenced forecast map,False,74.1
+Vàm Nước Trong,Interior canals (Bến Tre),10.17675,106.35543,Georeferenced forecast map,False,80.8
+Vàm Thom,Cổ Chiên,10.06981,106.28317,Georeferenced forecast map,False,75.9
+Vàm Thủ Cửu,Interior canals (Bến Tre),10.14059,106.40794,Georeferenced forecast map,False,82.0
+Vĩnh Bình,Cửa Đại – Tiền,10.26066,106.08281,Georeferenced forecast map,False,48.8
+Đồng Phú,Cửa Đại – Tiền,10.32852,106.00323,Georeferenced forecast map,False,35.5
